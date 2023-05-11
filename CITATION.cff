@@ -1,0 +1,33 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Complication codes
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: 'Sumedh '
+    family-names: Kaul
+    email: skaul@bidmc.harvard.edu
+    affiliation: >-
+      Department of Surgery, Beth Israel Deaconess Medical
+      Center, Boston, MA
+  - given-names: John
+    family-names: Ernandez
+    email: john_ernandez@hms.harvard.edu
+    affiliation: 'Harvard Medical School, Boston, MA'
+  - given-names: 'Aaron '
+    family-names: Fleishman
+    email: afleishm@bidmc.harvard.edu
+    affiliation: >-
+      Department of Surgery, Beth Israel Deaconess Medical
+      Center, Boston, MA
+  - given-names: 'Boris '
+    family-names: Gershman
+    email: bgershma@bidmc.harvard.edu
+    affiliation: >-
+      Division of Urologic Surgery, Beth Israel Deaconess 
+      Medical  Center, Boston, MA
+url: 'https://github.com/sumedhkaul/Complication-codes'
